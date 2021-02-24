@@ -21,7 +21,7 @@ Replace cmd with one of the commands listed above.
 
 *This program won't work if `rustup` is not installed on your machine.*
 
-        cargo install --git git@github.com:limchiahau/suspenders.git
+        cargo install --git https://github.com/limchiahau/suspenders.git
 
 
 
